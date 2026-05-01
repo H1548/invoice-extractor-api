@@ -229,7 +229,7 @@ This ensures questionable invoices are not silently accepted.
 ```
 
 ## Project Structure
-
+```text
 InvoiceExtractor/
 │
 ├── app/
@@ -277,6 +277,7 @@ InvoiceExtractor/
 ├── README.md
 ├── requirements.txt
 ├── uv.lock
+```
 
 ## Setup 
 
