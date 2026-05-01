@@ -355,3 +355,8 @@ Add batch processing for multiple invoices
 Current status: Working prototype deployed to Azure Container Apps
 
 The system can accept invoice PDFs/images, parse them using Azure Document Intelligence, map outputs into a structured schema using OpenAI structured outputs, validate the result, retry failed outputs, and flag uncertain invoices for review.
+
+## Author
+
+Hasan Farooq  
+MSc Cybersecurity | Machine Learning | AI 
