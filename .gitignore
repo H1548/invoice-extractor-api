@@ -1,0 +1,112 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+.env
+.env.*
+!.env.example
+
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+
+secrets/
+secret/
+credentials/
+credentials.json
+service-account.json
+
+openai_api_key.txt
+api_key.txt
+keys.json
+
+# Virtual environments
+.venv
+.env
+
+
+.json
+.png
+
+data/
+datasets/
+raw_data/
+processed_data/
+external_data/
+private_data/
+
+# Invoice file types
+*.pdf
+*.PDF
+*.png
+*.PNG
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+*.tiff
+*.TIFF
+*.bmp
+*.BMP
+
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.jsonl
+
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+
+~$*
+*.part
+
+
+# =========================
+# Cache Directories
+# =========================
+
+.cache/
+.cache-*/
+cache/
+
+huggingface/
+.huggingface/
+
+transformers_cache/
+torch_cache/
+
+# Common ML cache locations if created locally
+.hf_cache/
+
+
+# =========================
+# Documentation Builds
+# =========================
+
+docs/_build/
+site/
+
+
+# =========================
+# Misc
+# =========================
+
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+*.dump
+*.sql
