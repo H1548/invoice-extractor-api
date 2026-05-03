@@ -2,7 +2,7 @@
 
 An AI-assisted invoice processing system that extracts structured invoice data from PDFs and invoice images, maps the output into a strict schema, and applies deterministic validation checks before returning the final result through a FastAPI endpoint.
 
-The goal of this project is not just to extract text from invoices, but to make the output reliable enough for downstream workflows by combining document parsing, LLM-based schema mapping, validation rules, and review flags.
+The goal of this project is not just to extract text from invoices, but to make the output reliable enough for downstream workflows by combining document parsing, LLM-based schema mapping, validation rules, and review flags. Access this the invoice-extractor through this URL: https://invoiceextractorapp.politesmoke-cbbdad27.uksouth.azurecontainerapps.io (Give the first load 20-30 seconds to load).
 
 ---
 
